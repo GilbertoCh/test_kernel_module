@@ -1,7 +1,8 @@
-# Test Kernel Modile
+# Test Kernel Module
 This is a test kernel module
 
 ## Team
+
 
 
 1. [Iván Chavero](https://github.com/imcsk8) *Master Jedi*
@@ -13,7 +14,7 @@ This is a test kernel module
 1. [Luis Mauricio Castro Gutiérrez](https://github.com/mau-castro) *Padwan*
 1. [Gilberto Chavez](https://github.com/GilbertoCh) *Padwan*
 1. [Javier Carrera](https://github.com/JavierCarreraHW) *Padwan*
-1. [Rodrigo Alberto Valdez Covarrubias](https://github.com/RodrigoVal07) *Padawan*
+1. [Rodrigo Alberto Valdez Covarrubias](https://github.com/RodrigoVal07) *Padwan*
 
 ### Git Basic commands
 
@@ -122,3 +123,7 @@ This module registers a device major number but it does not create the device. C
 * https://education.github.com/git-cheat-sheet-education.pdf
 * https://code.visualstudio.com/docs/editor/versioncontrol
 * https://www.thegeekstuff.com/2013/07/write-linux-kernel-module/
+=======
+* [Iván Chavero](https://github.com/imcsk8) *Master Jedi*
+* [Nombre Alumno](https://github.com/example_user) *Padwan*
+* [Luis Mauricio Castro Gutiérrez](https://github.com/mau-castro) *Padwan*
